@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 024427d10b220e74da1e485dbba1dfb2, type: 3}
+  m_Name: Profile_Files_Default
+  m_EditorClassIdentifier: 
+  FilesData:
+    Files:
+    - Id: -1976319281645420053
+      Type: 1
+      ContainerId: 0
+      ScreenPosition: {x: 64, y: -64}
+      Name: Projects
+      IconName: Spr_Folder_01
+      Action: -1976319281645420053
+    - Id: 5460953384420903444
+      Type: 3
+      ContainerId: -1976319281645420053
+      ScreenPosition: {x: 64, y: -192}
+      Name: SEBA 2018
+      IconName: Spr_Itch_01
+      Action: https://fiffe.itch.io/seba2018
+    - Id: -1463655357034764189
+      Type: 3
+      ContainerId: 0
+      ScreenPosition: {x: 64, y: -320}
+      Name: CS:GO
+      IconName: Spr_CSGO_01
+      Action: steam://rungameid/730
+    - Id: 7709662025492517028
+      Type: 3
+      ContainerId: 0
+      ScreenPosition: {x: 64, y: -448}
+      Name: FunkIT
+      IconName: Spr_Itch_01
+      Action: https://fiffe.itch.io/funkit

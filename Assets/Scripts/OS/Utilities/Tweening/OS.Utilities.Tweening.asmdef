@@ -1,0 +1,16 @@
+{
+    "name": "OS.Utilities.Tweening",
+    "rootNamespace": "",
+    "references": [
+        "GUID:75f8f7ec4f0ddd24993addfeea6345f8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

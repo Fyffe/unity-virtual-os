@@ -1,0 +1,22 @@
+{
+    "name": "OS.Portfolio.VirtualOS",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:003763eb02b4da54c88249e1348ed373",
+        "GUID:fdc4d04c70d07a245af023892dbfbf1e",
+        "GUID:75f8f7ec4f0ddd24993addfeea6345f8",
+        "GUID:2fe44c84b18cf0b43bb9e0fad9e7cdcd",
+        "GUID:397351dcfde802f4884806ce3eacce10"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

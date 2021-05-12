@@ -1,0 +1,18 @@
+{
+    "name": "OS.Utilities.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:fdc4d04c70d07a245af023892dbfbf1e"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

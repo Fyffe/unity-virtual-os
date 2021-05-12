@@ -1,0 +1,17 @@
+{
+    "name": "OS.Portfolio.UI",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2fe44c84b18cf0b43bb9e0fad9e7cdcd",
+        "GUID:397351dcfde802f4884806ce3eacce10"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

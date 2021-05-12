@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d64f613db0be21840b88ba8238e8bd76, type: 3}
+  m_Name: Inst_VirtualOS_UI
+  m_EditorClassIdentifier: 
+  OSCanvas: {fileID: 5517080299618573710, guid: b66c6e4d2c543bd42856a7bb769b3b22, type: 3}
+  Screens:
+  - {fileID: 1587120862, guid: 8088ede85a3cd8344baaaf3fb0f66034, type: 3}
+  - {fileID: 2761759956279980170, guid: 5260fbca7c9ed6347bedd109b26ffb97, type: 3}
+  - {fileID: 1025605980336015020, guid: 7ae77be07cb94ab40b73f1465bc3e4da, type: 3}
